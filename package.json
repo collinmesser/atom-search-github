@@ -5,7 +5,7 @@
   "description": "A package for doing quick GitHub searches on highlighted text.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/search-github",
+  "repository": "https://github.com/collinmesser/atom-search-github",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
