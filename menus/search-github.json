@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Search For Highlighted Text",
+        "command": "search-github:search"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "search-github",
+          "submenu": [
+            {
+              "label": "Search",
+              "command": "search-github:search"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

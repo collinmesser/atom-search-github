@@ -1,0 +1,15 @@
+{
+  "name": "search-github",
+  "main": "./lib/search-github",
+  "version": "0.1.0",
+  "description": "A package for doing quick GitHub searches on highlighted text.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/search-github",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
