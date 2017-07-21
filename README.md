@@ -6,4 +6,4 @@ The default search url is `https://www.github.com`. You can edit this in the pac
 
 ***Note: Do not include the trailing slash / after the url.***
 
-![A screenshot of search-github](atom-search-github/atom-search-github-example.gif)
+![A screenshot of search-github](https://github.com/collinmesser/atom-search-github/blob/master/atom-search-github-example.gif)
