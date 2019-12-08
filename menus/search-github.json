@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Search For Highlighted Text",
+        "label": "Search Github For Highlighted Text",
         "command": "search-github:search"
       }
     ]
