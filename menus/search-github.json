@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "search-github",
+          "label": "Search Github",
           "submenu": [
             {
-              "label": "Search",
+              "label": "Search Github",
               "command": "search-github:search"
             }
           ]
